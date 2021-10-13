@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "b12-ionis",
+  "private_key_id": "f4be51114c4a283be7934408bcc139469e57e631",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjr0YtWg/eNeFF\nQDSGhLXVRgzM/otEn8tmtr8++1HiNrrpnQNyg9gv00ywsEzKmt21E7OF19+ilDFw\nVGdO8xFF+oXzt+FcWQd8U0FpgVbZThoFa0JoQRA9cvIcHWFPxRx0ChdRf5rfji28\nPJbea0mSBnT5IIlxvAuyOEGBzurohiUimnyiYBHr4tCezDjBD9EEmeqN/IYOxd3F\nR89Q9q77swwks2BE7MwCJMPefYpvUCfz5r1f/mcQ813MSuf8JHI6h8grTPigdALx\nIBaAW5hf+DoUqMU457ChKjR8+YyssdURLa7bpiL8f2ivsBq+6wK3Nl4nZe+KDmVU\nBvKWROw5AgMBAAECggEAAPa42y7A8eofjM61WHbq0qoGTIUxqPpnYlAQZXSpnWM8\n28AFy4xw7wwnkxFArH83r7ehWpgELDMC7QJENvPprb+tPvt9z1NDXuUnGRHOwvoJ\nn29LnW1HpRL6j7WRE30JvzmpfDx7+xW9WXLCYSYg0WQqF2bshD/LElYwNY1UNwED\nxueptJMDyPRQWywLXdX51rRQtHz3QQ5Gi/zXj4ZSwDvITPiyEDGNYSoHWLXieMsq\ne3plz/oEIsujh0pciqkOKuZETT3AX3fAiSxkurxAoN7fp/i9fA7fOAjOUQE/CKa9\nEPgMvkGlGVNU6e+K1uBmbhGGO7nrvo5Wt1x0AqMZwQKBgQDeuUNcuk/97G3JOzvw\n2xkCasMFA9dQ49jXoH+BWc9LpmxXywmHnUEg+Hz37TjHbwedSRZUaJvYlQ3YXeFK\nn8Xrrrb4jQfeAaq3y0NFw3qbCGrzEdL8hrtbvZsX1syFi/wELvaFGxoGkTjulxug\nVbjbsd/F2GSjjbpyMJxQuTtIeQKBgQC8I+LeZswWVyE7JUR1bCnw5YisHiRiLvg7\n9JeCtqExX18QEQVLFjhumuyJhiM4ea6b/JQC4cV/mVHcDjSm4hGEK9P+oiHd2qkd\na7w0vzZ/CxcramYGh0+5YJk+xnn1sqY/NOaqK8PaGI8L32NzanJiax8qGKrnqFlo\ng+ptZI1RwQKBgBEXPFEQRvUgQGhxsC7SUT/7O03WNp6RbWFWgpJFdv/CHIw8G1YZ\nvhaumsBXpsS/A2GRazI8+MCM54wT4CbezcxBEu9Nuy3RCO2jnlzrHCxrX/GZC4yv\nNg9bJFyW8gjJbiRQCkC6jKu2Vx0P4WHTUiUhqB9BdK+MP6NlkYksPZ1ZAoGALq8g\n7lrHrYt1PX3j3Nc4GQR7w2m/UXWiNw5cQh0bJmsp5YyzqYwb+KYMp5tXRf47q40j\nFQv8u8rJmzcTLY3PFuLhOb/1c118tUY0b0o7NY8E8sr2Agy1ZaRookERpjvsMKbp\nzbQKZyXM6P9HaC4zr+Qw2XtBfTYy6VJCa16WCoECgYBRsi+zZLsuGvn1KMi7LR1w\nRtcw3XUpWeq25T8Q96bQybY2KYJ//0i82dUzQXWuUQt4Ap9kOgHGh1m3W1+1qEFF\nlDB3K+lRF2wPKq0GVzdMLJft7tHx7rvekp/VKtuofD131qhnm9vzyjfkZBoaduJy\nTeTM5lbK3FONMg37PPKhmg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "morgan@b12-ionis.iam.gserviceaccount.com",
+  "client_id": "115972841591931942592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/morgan%40b12-ionis.iam.gserviceaccount.com"
+}
