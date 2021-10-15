@@ -6,7 +6,8 @@
 1 - Download the main.py from this repository <br />
 2 - Plug the pybstick <br />
 3 - Drag and drop the file (main.py) to usb lector (D: or E:) <br />
-4 - Your Pybstick is ready to use <br />
+4 - Create a folder name "data"
+5 - Your Pybstick is ready to use <br />
 
 ### Use you pybstick <br />
 1 - Plug your pybstick to a power charge (it could be your computer or an external battery) <br />
